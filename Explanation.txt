@@ -1,0 +1,10 @@
+Google Kick Start 2019: 
+
+Owner : Luis Benavides Dalmendray . 
+
+These are my solutions to Google Kick Start problems . 
+
+Kick Start 2019 Round A : https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01
+
+My position was the place 894 :
+My nickName is lbdalmendray : https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01
