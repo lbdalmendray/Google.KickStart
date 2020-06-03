@@ -5,10 +5,24 @@ Google Kick Start :
 These are my solutions to Google Kick Start problems . 
 
 Google Kick Start 2019: 
+My nickName is lbdalmendray
 
 Kick Start 2019 Round A : https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01
-
 My position was the place 894 :
-My nickName is lbdalmendray : https://codingcompetitions.withgoogle.com/kickstart/round/0000000000050e01
+
+----------------------------------------------------------------------------------------------------
+
+Google Kick Start 2020:
+My nickName is lbdalmendray 
+
+Kick Start 2020 Round A : https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc7
+My position was the place 2390 :
+
+Kick Start 2020 Round B : https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ffc8
+My position was the place 6032 :
+
+Kick Start 2020 Round C : https://codingcompetitions.withgoogle.com/kickstart/round/000000000019ff43
+My position was the place 2082 :
+
 
 This is a Visual Studio 2019 Solution of C# .Net Framework Class Library Projects and Unit Test Projects.
